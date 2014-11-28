@@ -3,7 +3,7 @@
 
 ## Sort Term
 ***
-- [x] ACF Server Setup
+- [-] ACF Server Setup
 - [ ] Trac The Full regesstion suites status in Chengdu Lab
 - [ ] Summery the status of Chengdu Lab
 	- [ ] Draw a diamgram
