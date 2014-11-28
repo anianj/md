@@ -1,7 +1,7 @@
 # Lab Related Works
 
 ## Sort Term
-- [x] 
+- [x] Re-configure 58 dedicated appliances for Automation Team
 - [ ] ACF Server Setup
     - [x] Sync Meeting with Fei & Oscar
     - [x] Setup plan for actions
