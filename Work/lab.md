@@ -8,9 +8,9 @@
     - [x] Setup plan for actions
     - [x] Meeting room and invetation
 
-    - [ ] Physically Setup:
+    - [x] Physically Setup:
           Setup machine, cabeling, system install
-    - [ ] Go thru the proces again and copy files
+    - [x] Go thru the proces again and copy files
     - [ ] Setup phase 1 with Oscar
     - [ ] Setup phase 2 with Oscar
     - [ ] Testing Phase 1 with Oscar
