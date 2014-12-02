@@ -1,6 +1,7 @@
 # Lab Related Works
 
 ## Sort Term
+- [ ] Eugene's legacy ets
 - [x] Re-configure 58 dedicated appliances for Automation Team
 - [ ] ACF Server Setup
     - [x] Sync Meeting with Fei & Oscar
