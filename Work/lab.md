@@ -11,9 +11,9 @@
     - [x] Physically Setup:
           Setup machine, cabeling, system install
     - [x] Go thru the proces again and copy files
-    - [ ] Setup phase 1 with Oscar
-    - [ ] Setup phase 2 with Oscar
-    - [ ] Testing Phase 1 with Oscar
+    - [x] Setup phase 1 with Oscar
+    - [x] Setup phase 2 with Oscar
+    - [x] Testing Phase 1 with Oscar
     - [ ] Enhance TestRunner.py to support install appliances in Chengdu Lab automaticlly
 
 - [ ] Trac The Full regesstion suites status in Chengdu Lab
